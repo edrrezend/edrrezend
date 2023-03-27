@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Eduardo</h1>
-<h3 align="center">A passionate Data Engineer from Brazil</h3>
+<h3 align="center">A passionate data engineer from Brazil</h3>
 
 - 🔭 I’m currently studing **Data Engineering**
 
 - 🌱 I’m currently learning **Python, SQL, NoSQL, Spark, Airflow, Hive, Hadoop, Docker, Kubernetes, Cloud Computing, Looker, Powershell and Bash**
 
-- 👯 I’m looking to collaborate on **Big Data, Data Warehouse, Data Architecture, Pipelines and ETL**
+- 👯 I’m looking to collaborate on **Big Data, Data Warehouse, Data Architecture, Data Modeling, Pipelines and ETL**
 
 - 💬 Ask me about **Python, SQL, Cloud Computing and Motec**
 
-- 📫 How to reach me **edrrezende2@gmail.com**
+- 📫 How to reach me: **edrrezende2@gmail.com**
 
-- ⚡ More about me **I'm also passionate about music and motorsports.**
+- ⚡ More about me: **I'm also passionate about music and motorsports.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
