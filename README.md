@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **edrrezende2@gmail.com**
 
-- ⚡ More about me: **I'm also passionate about music and motorsports.**
+- ⚡ More about me: **I'm also passionate about music, stock market, crypto and motorsports.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
