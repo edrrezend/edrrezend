@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, SQL, NoSQL, Spark, Airflow, Hive, Hadoop, Docker, Kubernetes, Cloud Computing, Looker, Powershell and Bash**
 
-- 👯 I’m looking to collaborate on **Big Data, Data Warehouse, Data Architecture, Data Modeling, Pipelines and ETL**
+- 👯 I’m looking to collaborate on **Big Data, Data Warehouse, Data Architecture, Data Modeling and ETL**
 
 - 💬 Ask me about **Python, SQL, Cloud Computing and Motec**
 
